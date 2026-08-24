@@ -66,6 +66,16 @@ Soil Fertility Prediction
 ↓
 Crop Recommendation
 
+
+## Future Enhancements
+Integration of additional soil parameters
+More detailed soil-type classification
+Support for more crop categories
+Larger and more diverse datasets
+Improved model performance through hyperparameter tuning
+Cloud-based deployment for continuous access
+
+
 ## Project Files
 
 | File | Description |
@@ -81,12 +91,3 @@ Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
-
-
-## Future Enhancements
-Integration of additional soil parameters
-More detailed soil-type classification
-Support for more crop categories
-Larger and more diverse datasets
-Improved model performance through hyperparameter tuning
-Cloud-based deployment for continuous access
